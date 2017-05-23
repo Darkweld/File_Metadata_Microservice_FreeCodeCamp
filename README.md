@@ -1,0 +1,1 @@
+File size checker for FreeCodeCamp. Input file to recieve a json response with the file's size in bytes.
